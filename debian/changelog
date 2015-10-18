@@ -1,3 +1,10 @@
+lxc (1:1.1.4-0ubuntu1+debian1~jessie) jessie; urgency=medium
+
+  * Allow to use libgnutls28-dev
+  * Bump epoch 1 to match jessie's official version
+
+ -- Fajar A. Nugraha <ubuntu-ppa@fajar.net>  Sun, 18 Oct 2015 17:41:00 +0700
+
 lxc (1.1.4-0ubuntu1) wily; urgency=medium
 
   * New upstream bugfix release (1.1.4)
